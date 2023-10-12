@@ -4,7 +4,7 @@
 $ git clone https://github.com/besireren/table_and_form_edit.git
 ```
 
-2. Run `npm install` inside the downloaded/cloned folder:
+2. Run `npm install` inside the downloaded/cloned folder under tableFromEdit:
 ```bash
 $ npm install
 ```
