@@ -43,4 +43,6 @@ Save Only active if changes are made and should link back to the table were the 
 - Tests were not requested can be added if desired.
 - Used latest Angular( 16.2.0 ) and Angular Material (16.2.7)
 
-
+# SS
+![image](https://github.com/besireren/table_and_form_edit/assets/11440115/8ec7ec0e-3d2f-4d7b-9cb8-0e872e29476b)
+![image](https://github.com/besireren/table_and_form_edit/assets/11440115/04098509-13d2-4300-849f-2e39928c3189)
