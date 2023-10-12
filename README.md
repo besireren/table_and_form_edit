@@ -39,7 +39,7 @@ Cancel Just switch back to the table
 Save Only active if changes are made and should link back to the table were the data should also be changed
 ```
 # Notes
-- When you edit the corrupted data, you can re corrupted  the data with 'Corrupt The Data' button top-right
+- When you edit the corrupted data, you can corrupt the data again with the 'Corrupted The Data' button on the top right.
 - Tests were not requested can be added if desired.
 - Used latest Angular( 16.2.0 ) and Angular Material (16.2.7)
 
