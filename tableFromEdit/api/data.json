@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "carName": "HJKFSHJK42525fsdfs",
+      "instock": false,
+      "horsePower": 109,
+      "price": 1002222222.5,
+      "color": 1
+    },
+    {
+      "id": 2,
+      "carName": null,
+      "instock": true,
+      "horsePower": 100,
+      "price": 100.5,
+      "color": 2
+    },
+    {
+      "id": 3,
+      "carName": "GDFGDFHDF42525fsdfs",
+      "instock": null,
+      "horsePower": 100,
+      "price": 100.5,
+      "color": 6
+    },
+    {
+      "id": 4,
+      "carName": "ASDFSDGASG42525fsdfs",
+      "instock": true,
+      "horsePower": null,
+      "price": 100.5,
+      "color": 2
+    },
+    {
+      "id": 5,
+      "carName": "AHADFHDFH42525fsdfs",
+      "instock": true,
+      "horsePower": 100,
+      "price": null,
+      "color": 5
+    },
+    {
+      "id": 6,
+      "carName": "ASDFSDGSG42525fsdfs",
+      "instock": true,
+      "horsePower": 100,
+      "price": 100.5,
+      "color": null
+    },
+    {
+      "id": 7,
+      "carName": "AAHADFSAGDS42525fsdfs",
+      "instock": false,
+      "horsePower": 100,
+      "price": 100.5,
+      "color": 4
+    },
+    {
+      "id": null,
+      "carName": "AasdasdDS42525fsdfs",
+      "instock": true,
+      "horsePower": 100,
+      "price": 100.5,
+      "color": 4
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Blue",
+      "code": "blue"
+    },
+    {
+      "id": 2,
+      "name": "Red",
+      "code": "red"
+    },
+    {
+      "id": 3,
+      "name": "Yellow",
+      "code": "yellow"
+    },
+    {
+      "id": 4,
+      "name": "Black",
+      "code": "black"
+    },
+    {
+      "id": 5,
+      "name": "Gold",
+      "code": "gold"
+    },
+    {
+      "id": 6,
+      "name": "Green",
+      "code": "green"
+    }
+  ]
+}
